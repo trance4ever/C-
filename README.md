@@ -16,5 +16,5 @@
     - 到CMakeLists.txt所在路径，执行cmake . 生成make文件
     - 执行make clean清理下文件
     - 编写自己的程序，在CMakeLists.txt中添加编译，之后执行make
-    - 执行可运行程序，tests文件夹下有一些测试各模块的用例，这些文件可执行文件在bin/下生成    
+    - 执行可运行程序，tests文件夹下有一些测试各模块的用例，可以按需求添加遍历    
 
